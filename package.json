@@ -1,0 +1,31 @@
+{
+  "name": "tree-kill-promise",
+  "version": "1.0.0",
+  "description": "Simple wrapper around the child_process module that makes use of promises.",
+  "repository": "dword-design/tree-kill-promise",
+  "license": "MIT",
+  "author": "Sebastian Landwehr <info@dword-design.de>",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "commit": "base commit",
+    "depgraph": "base depgraph",
+    "prepare": "base prepare",
+    "prepublishOnly": "base prepublishOnly",
+    "release": "base release",
+    "test": "base test"
+  },
+  "dependencies": {
+    "tree-kill": "^1.2.2"
+  },
+  "devDependencies": {
+    "@dword-design/base": "^6.0.7",
+    "@dword-design/functions": "^2.7.2",
+    "execa": "^4.0.0",
+    "fs-extra": "^8.1.0",
+    "port-ready": "^0.1.0",
+    "with-local-tmp-dir": "^2.2.8"
+  }
+}
