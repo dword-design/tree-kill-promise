@@ -24,7 +24,7 @@
     "@dword-design/base": "^6.0.7",
     "@dword-design/functions": "^2.7.2",
     "execa": "^4.0.0",
-    "fs-extra": "^8.1.0",
+    "fs-extra": "^9.0.0",
     "port-ready": "^0.1.0",
     "with-local-tmp-dir": "^2.2.8"
   }
