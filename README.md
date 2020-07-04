@@ -5,7 +5,6 @@
 <!-- BADGES/ -->
 [![NPM version](https://img.shields.io/npm/v/tree-kill-promise.svg)](https://npmjs.org/package/tree-kill-promise)
 ![Linux macOS Windows compatible](https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue)
-
 [![Build status](https://img.shields.io/github/workflow/status/dword-design/tree-kill-promise/build)](https://github.com/dword-design/tree-kill-promise/actions)
 [![Coverage status](https://img.shields.io/coveralls/dword-design/tree-kill-promise)](https://coveralls.io/github/dword-design/tree-kill-promise)
 [![Dependency status](https://img.shields.io/david/dword-design/tree-kill-promise)](https://david-dm.org/dword-design/tree-kill-promise)
@@ -19,7 +18,7 @@ Simple wrapper around the child_process module that makes use of promises.
 <!-- /DESCRIPTION -->
 
 <!-- INSTALL/ -->
-# Install
+## Install
 
 ```bash
 # NPM
@@ -45,7 +44,7 @@ await kill(1, 'SIGKILL')
 For more details please visit the [tree-kill docs](https://www.npmjs.com/package/tree-kill).
 
 <!-- LICENSE/ -->
-# License
+## License
 
 Unless stated otherwise all works are:
 
