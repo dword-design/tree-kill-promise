@@ -11,10 +11,10 @@
   ],
   "scripts": {
     "commit": "base commit",
-    "depgraph": "base depgraph",
+    "dev": "base dev",
+    "lint": "base lint",
     "prepare": "base prepare",
     "prepublishOnly": "base prepublishOnly",
-    "release": "base release",
     "test": "base test"
   },
   "dependencies": {
@@ -27,5 +27,8 @@
     "fs-extra": "^8.1.0",
     "port-ready": "^0.1.0",
     "with-local-tmp-dir": "^2.2.8"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
