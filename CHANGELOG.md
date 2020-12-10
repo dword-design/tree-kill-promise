@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/dword-design/tree-kill-promise/compare/v1.0.4...v1.0.5) (2020-12-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency execa to v5 ([ef86020](https://github.com/dword-design/tree-kill-promise/commit/ef860200b0a7a02fbe7e7cdba929265cd055848a))
+
 ## [1.0.4](https://github.com/dword-design/tree-kill-promise/compare/v1.0.3...v1.0.4) (2020-12-10)
 
 
