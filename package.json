@@ -10,7 +10,7 @@
     "dist"
   ],
   "scripts": {
-    "clean": "base clean",
+    "check-unknown-files": "base check-unknown-files",
     "commit": "base commit",
     "dev": "base dev",
     "lint": "base lint",
@@ -22,7 +22,7 @@
     "tree-kill": "^1.2.2"
   },
   "devDependencies": {
-    "@dword-design/base": "^6.0.7",
+    "@dword-design/base": "^7.0.0",
     "@dword-design/functions": "^2.7.2",
     "execa": "^5.0.0",
     "fs-extra": "^9.0.0",
