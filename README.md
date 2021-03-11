@@ -34,7 +34,7 @@
 <!-- /BADGES -->
 
 <!-- DESCRIPTION/ -->
-Simple wrapper around the child_process module that makes use of promises.
+Simple wrapper around the tree-kill module that makes use of promises.
 <!-- /DESCRIPTION -->
 
 <!-- INSTALL/ -->
