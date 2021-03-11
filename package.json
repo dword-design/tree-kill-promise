@@ -1,7 +1,7 @@
 {
   "name": "tree-kill-promise",
   "version": "1.0.6",
-  "description": "Simple wrapper around the child_process module that makes use of promises.",
+  "description": "Simple wrapper around the tree-kill module that makes use of promises.",
   "repository": "dword-design/tree-kill-promise",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@dword-design.de>",
