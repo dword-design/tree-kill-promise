@@ -3,6 +3,7 @@
   "version": "1.0.7",
   "description": "Simple wrapper around the tree-kill module that makes use of promises.",
   "repository": "dword-design/tree-kill-promise",
+  "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@dword-design.de>",
   "main": "dist/index.js",
