@@ -20,6 +20,7 @@ export default {
     `
       )
       await chmod('cli.js', '755')
+
       const childProcess = execa.command('./cli.js')
       await portReady(3000)
       await kill(childProcess.pid)

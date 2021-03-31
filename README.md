@@ -78,7 +78,7 @@ For more details please visit the [tree-kill docs](https://www.npmjs.com/package
 <!-- LICENSE/ -->
 ## Contribute
 
-Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/tree-kill-promise/issues) or [pull request](https://github.com/dword-design/tree-kill-promise/pulls)! ⚙️
+Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/tree-kill-promise/issues) or a [pull request](https://github.com/dword-design/tree-kill-promise/pulls)! ⚙️
 
 ## Support
 
