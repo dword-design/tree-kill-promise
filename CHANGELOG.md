@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/dword-design/tree-kill-promise/compare/v1.0.10...v1.0.11) (2021-04-12)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#15](https://github.com/dword-design/tree-kill-promise/issues/15)) ([f87c48f](https://github.com/dword-design/tree-kill-promise/commit/f87c48ffa7d3fb1e5e195f8c89e41a7c69dcf515))
+
 ## [1.0.10](https://github.com/dword-design/tree-kill-promise/compare/v1.0.9...v1.0.10) (2021-03-31)
 
 
