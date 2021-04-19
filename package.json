@@ -28,7 +28,7 @@
     "execa": "^5.0.0",
     "fs-extra": "^9.0.0",
     "port-ready": "^0.1.0",
-    "with-local-tmp-dir": "^2.2.8"
+    "with-local-tmp-dir": "^2.2.18"
   },
   "publishConfig": {
     "access": "public"
