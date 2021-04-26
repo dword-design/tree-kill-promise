@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/dword-design/tree-kill-promise/compare/v1.0.11...v1.0.12) (2021-04-26)
+
+
+### Bug Fixes
+
+* update dependency with-local-tmp-dir to v3 ([#20](https://github.com/dword-design/tree-kill-promise/issues/20)) ([10dc5b9](https://github.com/dword-design/tree-kill-promise/commit/10dc5b98dae7ea00fd5e6a78a1f01a2cc5c8f757))
+
 ## [1.0.11](https://github.com/dword-design/tree-kill-promise/compare/v1.0.10...v1.0.11) (2021-04-12)
 
 
