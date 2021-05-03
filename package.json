@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@dword-design/base": "^8.0.0",
-    "@dword-design/functions": "^3.0.0",
+    "@dword-design/functions": "^4.0.0",
     "execa": "^5.0.0",
     "fs-extra": "^9.0.0",
     "port-ready": "^0.1.0",
