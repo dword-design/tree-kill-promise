@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/dword-design/tree-kill-promise/compare/v2.0.0...v2.0.1) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v4 ([#24](https://github.com/dword-design/tree-kill-promise/issues/24)) ([6b57337](https://github.com/dword-design/tree-kill-promise/commit/6b57337e436256d678d7f8ab3a375fd43dff098b))
+
 # [2.0.0](https://github.com/dword-design/tree-kill-promise/compare/v1.0.12...v2.0.0) (2021-05-03)
 
 
