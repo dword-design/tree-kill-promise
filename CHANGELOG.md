@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/dword-design/tree-kill-promise/compare/v1.0.12...v2.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#23](https://github.com/dword-design/tree-kill-promise/issues/23)) ([cd3d340](https://github.com/dword-design/tree-kill-promise/commit/cd3d340c1708663d1da60ea9caf62b1936431f4b))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.0.12](https://github.com/dword-design/tree-kill-promise/compare/v1.0.11...v1.0.12) (2021-04-26)
 
 
