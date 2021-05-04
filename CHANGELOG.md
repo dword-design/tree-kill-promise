@@ -1,3 +1,11 @@
+## [2.0.2](https://github.com/dword-design/tree-kill-promise/compare/v2.0.1...v2.0.2) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency fs-extra to v10 ([#25](https://github.com/dword-design/tree-kill-promise/issues/25)) ([c78ef34](https://github.com/dword-design/tree-kill-promise/commit/c78ef34b257ddc170cbeaedbcc13a8ec1224fd46))
+* update dependency with-local-tmp-dir to v4 ([#26](https://github.com/dword-design/tree-kill-promise/issues/26)) ([d59cc77](https://github.com/dword-design/tree-kill-promise/commit/d59cc7770798e387a3a718b00b675e22317e612a))
+
 ## [2.0.1](https://github.com/dword-design/tree-kill-promise/compare/v2.0.0...v2.0.1) (2021-05-03)
 
 
