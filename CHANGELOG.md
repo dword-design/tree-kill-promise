@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/dword-design/tree-kill-promise/compare/v2.0.2...v2.0.3) (2021-05-28)
+
+
+### Bug Fixes
+
+* update config files ([1e80832](https://github.com/dword-design/tree-kill-promise/commit/1e808327c0f09ac6b39ffc5f5132159f94b668ac))
+
 ## [2.0.2](https://github.com/dword-design/tree-kill-promise/compare/v2.0.1...v2.0.2) (2021-05-04)
 
 
