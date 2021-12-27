@@ -3,7 +3,7 @@
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
-  <p>
+<p>
     <a href="https://npmjs.org/package/tree-kill-promise">
       <img
         src="https://img.shields.io/npm/v/tree-kill-promise.svg"
