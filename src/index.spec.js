@@ -1,28 +1,29 @@
 import { endent } from '@dword-design/functions'
-import execa from 'execa'
-import { chmod, outputFile } from 'fs-extra'
+import { execaCommand } from 'execa'
+import fs from 'fs-extra'
+import outputFiles from 'output-files'
 import portReady from 'port-ready'
 import withLocalTmpDir from 'with-local-tmp-dir'
 
-import kill from '.'
+import self from './index.js'
 
 export default {
   valid: () =>
     withLocalTmpDir(async () => {
-      await outputFile(
-        'cli.js',
-        endent`
-      #!/usr/bin/env node
+      await outputFiles({
+        'cli.js': endent`
+          #!/usr/bin/env node
 
-      import http from 'http'
+          import http from 'http'
 
-      http.createServer().listen(3000)
-    `
-      )
-      await chmod('cli.js', '755')
+          http.createServer().listen(3000)
+        `,
+        'package.json': JSON.stringify({ type: 'module' }),
+      })
+      await fs.chmod('cli.js', '755')
 
-      const childProcess = execa.command('./cli.js')
+      const childProcess = execaCommand('./cli.js')
       await portReady(3000)
-      await kill(childProcess.pid)
+      await self(childProcess.pid)
     }),
 }
