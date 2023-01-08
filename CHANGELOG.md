@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dword-design/tree-kill-promise/compare/v2.0.8...v3.0.0) (2023-01-08)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#81](https://github.com/dword-design/tree-kill-promise/issues/81)) ([788eb61](https://github.com/dword-design/tree-kill-promise/commit/788eb6129e6f0c1fca592f279002a583c30f1d48))
+
+
+### BREAKING CHANGES
+
+* drop node 12 support, move to esm
+
 ## [2.0.8](https://github.com/dword-design/tree-kill-promise/compare/v2.0.7...v2.0.8) (2022-01-12)
 
 
