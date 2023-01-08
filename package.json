@@ -6,6 +6,8 @@
   "funding": "https://github.com/sponsors/dword-design",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
+  "type": "module",
+  "exports": "./dist/index.js",
   "main": "dist/index.js",
   "files": [
     "dist"
@@ -13,6 +15,7 @@
   "scripts": {
     "checkUnknownFiles": "base checkUnknownFiles",
     "commit": "base commit",
+    "depcheck": "base depcheck",
     "dev": "base dev",
     "lint": "base lint",
     "prepare": "base prepare",
@@ -23,15 +26,16 @@
     "tree-kill": "^1.2.2"
   },
   "devDependencies": {
-    "@dword-design/base": "^8.0.0",
+    "@dword-design/base": "^9.2.2",
     "@dword-design/functions": "^4.0.0",
-    "execa": "^5.0.0",
+    "execa": "^6.1.0",
     "fs-extra": "^10.0.0",
+    "output-files": "^2.0.10",
     "port-ready": "^0.1.0",
     "with-local-tmp-dir": "^4.0.0"
   },
   "engines": {
-    "node": ">=12"
+    "node": ">=14"
   },
   "publishConfig": {
     "access": "public"
