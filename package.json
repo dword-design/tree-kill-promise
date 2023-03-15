@@ -1,6 +1,6 @@
 {
   "name": "tree-kill-promise",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Simple wrapper around the tree-kill module that makes use of promises.",
   "repository": "dword-design/tree-kill-promise",
   "funding": "https://github.com/sponsors/dword-design",
