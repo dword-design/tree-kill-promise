@@ -1,3 +1,10 @@
+## [3.0.3](https://github.com/dword-design/tree-kill-promise/compare/v3.0.2...v3.0.3) (2023-03-16)
+
+
+### Bug Fixes
+
+* update dependency execa to v7.1.1 ([8af1692](https://github.com/dword-design/tree-kill-promise/commit/8af169204998e667067c79da7a8eb33e8ac599a5))
+
 ## [3.0.2](https://github.com/dword-design/tree-kill-promise/compare/v3.0.1...v3.0.2) (2023-03-15)
 
 
