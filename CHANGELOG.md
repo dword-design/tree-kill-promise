@@ -1,3 +1,10 @@
+## [3.0.8](https://github.com/dword-design/tree-kill-promise/compare/v3.0.7...v3.0.8) (2023-03-19)
+
+
+### Bug Fixes
+
+* update dependency output-files to v2.0.18 ([800767f](https://github.com/dword-design/tree-kill-promise/commit/800767fd372faac341505b635c41b0009cd6cf36))
+
 ## [3.0.7](https://github.com/dword-design/tree-kill-promise/compare/v3.0.6...v3.0.7) (2023-03-19)
 
 
