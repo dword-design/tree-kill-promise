@@ -8877,12 +8877,19 @@ os-tmpdir@~1.0.2:
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
   integrity sha512-D2FR03Vir7FIu45XBY20mTb+/ZSWB00sjU9jdQXt83gDrI4Ztz5Fs7/yy74g2N5SVQY4xY1qDr4rNddwYRVX0g==
 
-output-files@^2.0.0, output-files@^2.0.10:
+output-files@^2.0.0:
   version "2.0.27"
   resolved "https://registry.yarnpkg.com/output-files/-/output-files-2.0.27.tgz#f8d652a8f40f1d628a6ff9ad1728ac08310b7f77"
   integrity sha512-303RwJWVV5VhxeITbCojcTMxs2MfDayOGUwtq3lXISuyUx5yekTK8fDd+65bEm5QhkS395MKeIwww5L7p3bExA==
   dependencies:
     "@dword-design/functions" "^4.0.0"
+    fs-extra "^11.1.0"
+
+output-files@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/output-files/-/output-files-3.0.0.tgz#0c26b834646befed2bb40e460ae9c658ad5cd1c1"
+  integrity sha512-mFwRkTDiw6evbQW1G6To+Yp7tN2WOVh8ne7AyzTRWtqPU+Sza3ZhtXEO3vpLnaYPYEIUSrlILeZVp0rOmcA5Kw==
+  dependencies:
     fs-extra "^11.1.0"
 
 p-each-series@^2.1.0:
