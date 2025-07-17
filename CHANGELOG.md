@@ -1,3 +1,18 @@
+# [4.0.0](https://github.com/dword-design/tree-kill-promise/compare/v3.0.14...v4.0.0) (2025-07-17)
+
+
+### Bug Fixes
+
+* foo ([9755795](https://github.com/dword-design/tree-kill-promise/commit/975579577aae1d17991414924efc46c41e585f57))
+* foo ([d035179](https://github.com/dword-design/tree-kill-promise/commit/d035179750e112a5faf7253d64328e8bae86af7a))
+* foo ([ea0dfe7](https://github.com/dword-design/tree-kill-promise/commit/ea0dfe7436b4eb2e1014ed083beb4b0c0f9a5998))
+* lock file maintenance ([#111](https://github.com/dword-design/tree-kill-promise/issues/111)) ([7a77f83](https://github.com/dword-design/tree-kill-promise/commit/7a77f831953244d3b34dea71c6ce630ddf152725))
+
+
+### BREAKING CHANGES
+
+* node.js >= 20
+
 ## [3.0.14](https://github.com/dword-design/tree-kill-promise/compare/v3.0.13...v3.0.14) (2023-04-12)
 
 
