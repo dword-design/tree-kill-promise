@@ -1,9 +1,9 @@
 import { test } from '@playwright/test';
 import endent from 'endent';
 import { execaCommand } from 'execa';
+import getPort from 'get-port';
 import outputFiles from 'output-files';
 import portReady from 'port-ready';
-import getPort from 'get-port';
 
 import self from '.';
 
