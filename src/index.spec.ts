@@ -3,21 +3,23 @@ import endent from 'endent';
 import { execaCommand } from 'execa';
 import outputFiles from 'output-files';
 import portReady from 'port-ready';
+import getPort from 'get-port';
 
 import self from '.';
 
 test('valid', async ({}, testInfo) => {
   const cwd = testInfo.outputPath();
+  const port = await getPort();
 
   await outputFiles(cwd, {
     'cli.ts': endent`
       import http from 'http';
 
-      http.createServer().listen(3000);
+      http.createServer().listen(${port});
     `,
   });
 
-  const childProcess = execaCommand('tsx cli.ts', { cwd });
-  await portReady(3000);
+  const childProcess = execaCommand('tsx cli.ts', { cwd, reject: false });
+  await portReady(port);
   await self(childProcess.pid);
 });
