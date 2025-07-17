@@ -39,7 +39,6 @@
     "@playwright/test": "^1.54.1",
     "endent": "npm:@dword-design/endent@^1.4.7",
     "execa": "^9.6.0",
-    "fs-extra": "^11.3.0",
     "output-files": "^3.0.0",
     "port-ready": "^0.1.0"
   },

@@ -24,9 +24,6 @@ importers:
       execa:
         specifier: ^9.6.0
         version: 9.6.0
-      fs-extra:
-        specifier: ^11.3.0
-        version: 11.3.0
       output-files:
         specifier: ^3.0.0
         version: 3.0.0
