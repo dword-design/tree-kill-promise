@@ -35,7 +35,7 @@
     "tree-kill": "^1.2.2"
   },
   "devDependencies": {
-    "@dword-design/base": "^14.0.3",
+    "@dword-design/base": "^15.0.0",
     "@playwright/test": "^1.54.1",
     "endent": "npm:@dword-design/endent@^1.4.7",
     "execa": "^9.6.0",
