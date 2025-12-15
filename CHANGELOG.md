@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/dword-design/tree-kill-promise/compare/v4.0.0...v5.0.0) (2025-12-15)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v16 ([#138](https://github.com/dword-design/tree-kill-promise/issues/138)) ([7379559](https://github.com/dword-design/tree-kill-promise/commit/73795599c3914a08f0bc577d8489eaed10344321))
+
+
+### BREAKING CHANGES
+
+* node >= 22
+
 # [4.0.0](https://github.com/dword-design/tree-kill-promise/compare/v3.0.14...v4.0.0) (2025-07-17)
 
 
