@@ -21,5 +21,5 @@ test('valid', async ({}, testInfo) => {
 
   const childProcess = execaCommand('tsx cli.ts', { cwd, reject: false });
   await portReady(port);
-  await self(childProcess.pid);
+  await self(childProcess.pid!);
 });
